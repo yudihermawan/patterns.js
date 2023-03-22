@@ -39,11 +39,3 @@ messageMediator.subscribe(alertMessage);
 
 // Publish message through mediator
 messageMediator.publish("Hello, world!");
-
-echo "# patterns.js" >> README.md
-git init
-git add .
-git commit -m "init"
-git branch -M main
-git remote add origin https://github.com/yudihermawan/patterns.js.git
-git push -u origin main
